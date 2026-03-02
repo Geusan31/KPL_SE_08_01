@@ -1,4 +1,4 @@
-version: '3.8'
+version: '2.8'
 
 services:
   app:
@@ -8,4 +8,3 @@ services:
     volumes:
       - .:/app
     command: python main.py
-    
