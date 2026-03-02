@@ -13,3 +13,5 @@ class TransactionController:
 
     def delete_transaction(self, transaction_id):
         return self.transaction_service.delete_transaction(transaction_id)
+    def get_transactions_by_user(self, user_id):
+        return self.transaction_service.get_transactions_by_user(user_id)
