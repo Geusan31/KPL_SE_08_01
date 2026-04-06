@@ -1,0 +1,31 @@
+{
+    "id": 101,
+    "nama_lengkap": "Budi Santoso",
+    "tempat_lahir": "Jakarta",
+    "tanggal_lahir": "2002-05-15",
+    "jenis_kelamin": "Laki-laki",
+    "email": "budi.santoso@email.com",
+    "nomor_telepon": "081234567890",
+    "alamat": {
+        "jalan": "Jl. Merdeka No. 123",
+        "kota": "Bandung",
+        "detail": {
+            "provinsi": "Jawa Barat",
+            "kode_pos": "40115"
+        }
+    },
+    "mata_kuliah": [
+        {
+            "nama": "Pemrograman Web",
+            "sks": 3,
+            "nilai": "A"
+        },
+        {
+            "nama": "Basis Data",
+            "sks": 4,
+            "nilai": "B+"
+        }
+    ],
+    "beasiswa": null,
+    "status_mhs": "active"
+}
